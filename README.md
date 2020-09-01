@@ -13,9 +13,9 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [WC-Order-Management](http://github.com/ValeriMladenov/WCOM-FrontEnd);
-- 🌱 I’m currently learning deno.js; 
-- 👯 I’m looking to collaborate on [WC-Order-Management](http://github.com/ValeriMladenov/WCOM-FrontEnd) 🤝;
+- 👨🏽‍💻 I’m currently working on [Notes Clone](http://github.com/ValeriMladenov/notes-clone-frontend);
+- 🌱 I’m currently learning deno.js;
+<!--- 👯 I’m looking to collaborate on [WC-Order-Management](http://github.com/ValeriMladenov/WCOM-FrontEnd) 🤝;-->
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have 2 successful businesses;
 - 📫 How to reach me: work@valeri.ml;
